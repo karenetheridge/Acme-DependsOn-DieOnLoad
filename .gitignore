@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Acme-DependsOn-DieOnLoad-*/
+/Acme-DependsOn-DieOnLoad-*.tar.gz
